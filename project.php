@@ -26,7 +26,7 @@
 //?>
 <?php
 $username = "Nowshad";
-$password = 1234 ;
+$password = 123456 ;
 
 if ($username = "Nowshad" && $password = 1234){
     echo "all ok";
